@@ -1,17 +1,21 @@
 <!--- Body Begins -->
 <h1 align="center"> Hi coders, I'm <a href="https://www.linkedin.com/in/yodha-yashaswit-sudarsi-86576522a/">Yodha Yashaswit</a> </h1>
 
-## <picture><img src = "./assets/about_me.gif" width = 25px></picture> **About me**
+## <picture><img src = "./assets/about_me.gif" width = 20px></picture> &nbsp; **About me**
 
-<img src="https://github.com/Yodha-Sudarsi/Yodha-Sudarsi/blob/main/assets/designer-image.png" min-width="150px" max-width="200px" width="380px" align="right">
+<img src="https://github.com/Yodha-Sudarsi/Yodha-Sudarsi/blob/main/assets/designer-image.png" min-width="150px" max-width="200px" width="400px" align="right">
 
+<p align="justify">
+  I am Yodha Yashaswit. I am Full Stack Web Developer, UI/UX Designer and ML Engineer. Currently, I am learning about Open Source, Cloud Technology and Data Science. 
+  I've been actively involved in various hackathons, workshops, and technical clubs where I've not only acquired valuable insights but also mentored junior members of the community, aiding 
+  them in problem-solving and raising awareness. I'm truly passionate about teaching newcomers.
+</p>
 
-I am Yodha Yashaswit. I am Full Stack Web Developer, UI/UX Designer and ML Engineer. Currently, I am learning about Open Source, Cloud Technology and Data Science. 
-I've been actively involved in various hackathons, workshops, and technical clubs where I've not only acquired valuable insights but also mentored junior members of the community, aiding them in problem-solving and raising awareness. I'm truly passionate about teaching newcomers.
+<p align="justify">
+  I'm like a detective hunting for the next big adventure in collaboration—always ready for innovative and exciting ideas! Don't hesitate to reach out and connect with me anytime!
+</p>
 
-I'm like a detective hunting for the next big adventure in collaboration—always ready for innovative and exciting ideas! Don't hesitate to reach out and connect with me anytime!
-
-### 🔗 Connect with me
+### Connect with me
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UC5RvBMJqdg9u90r3wOs-ang" target="_blank">
