@@ -3,7 +3,7 @@
 
 ## <picture><img src = "./assets/about_me.gif" width = 25px></picture> **About me**
 
-<img src="https://github.com/Yodha-Sudarsi/Yodha-Sudarsi/blob/main/assets/coder.png" min-width="200px" max-width="300px" width="550px" align="right">
+<img src="https://github.com/Yodha-Sudarsi/Yodha-Sudarsi/blob/main/assets/coder.png" min-width="150px" max-width="200px" width="350px" align="right">
 
 
 I am Yodha Yashaswit. I am Full Stack Web Developer, UI/UX Designer and ML Engineer. Currently, I am learning about Open Source, Cloud Technology and Data Science. 
