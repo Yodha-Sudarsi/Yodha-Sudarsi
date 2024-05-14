@@ -6,9 +6,8 @@
 <img src="https://github.com/Yodha-Sudarsi/Yodha-Sudarsi/blob/main/assets/designer-image.png" min-width="150px" max-width="200px" width="400px" align="right">
 
 <p align="justify">
-  I am Yodha Yashaswit. I am Full Stack Web Developer, UI/UX Designer and ML Engineer. Currently, I am learning about Open Source, Cloud Technology and Data Science. 
-  I've been actively involved in various hackathons, workshops, and technical clubs where I've not only acquired valuable insights but also mentored junior members of the community, aiding 
-  them in problem-solving and raising awareness. I'm truly passionate about teaching newcomers.
+  I am Yodha Yashaswit. I am Full Stack Web Developer, UI/UX Designer and ML Engineer. Currently, I am learning about Open Source, Cloud Technology and DevOps. 
+  I've been actively involved in various hackathons, workshops, and technical clubs where I've not only acquired valuable insights but also mentored junior members of the community, aiding them in problem-solving and raising awareness. I'm truly passionate about teaching newcomers.
 </p>
 
 <p align="justify">
@@ -47,6 +46,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="35" alt="typescript"/> </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="35" alt="go"/> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="35" alt="go"/> </a>
+<a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="35" alt="go"/> </a>
 </div>
 
 <br/>
@@ -61,33 +61,34 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35" alt="tailwind" /> </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="35" alt="mui" /> </a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="35" alt="redux-toolkit" /> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" alt="figma" /> </a>
-
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="35" alt="go"/> </a>
 </div>
 
 <br/>
 
 <h4>Back End:</h4>
 <div align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=Node.js&color=b3ffb0" alt="nodejs" /> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&color=008712" alt="express"/> </a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
-    alt="firebase"
-  />
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=black&color=fcf403" alt="flask" /> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=Node.js&color=b3ffb0" height="35" alt="nodejs" /> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&color=008712" height="35" alt="express"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="35" height="35" alt="flask" /> </a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the                 badge&logo=flask&logoColor=black&color=fcf403" height="35" alt="flask" /> </a>
+</div>
 
+<br/>
+
+<h4>Design:</h4>
+<div align="left">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" alt="figma" /> </a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="35" alt="express"/> </a>
 </div>
 
 <br/>
 
 <h4>Database:</h4>
 <div align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=orange&color=257bc2" alt="mysql" /> </a>
-
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="35" alt="mongodb" /> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=orange&color=257bc2" height="35" alt="mysql" /> </a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="35" alt="firebase"/> </a>
 </div>
 
 <br/>
@@ -130,6 +131,9 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" /> </a> 
  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
 </div>
+
+### Support: 
+<a href="https://buymeacoffee.com/yodhasudark" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" alt="figma" /> </a>
 
 <br />
 <hr />
