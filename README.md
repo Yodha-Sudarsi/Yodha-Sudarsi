@@ -33,7 +33,7 @@
 </div>
 <br><br>
 
-<h2>🛠️ Tools and Technologies</h2>
+<h2>🛠️ Skills</h2>
 
 <h4>Programming Languages:</h4>
 
@@ -143,6 +143,17 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Yodha-Sudarsi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br></br>
+
+<div align="center">
+  
+  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/y21co050) 
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yodha-yashaswit)
+  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@yodha-yashaswit)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/itsmeyash01/) 
+  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yodhasudarsi) 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 <h5>--- Show some ❤️ by ⭐️ some of the repositories! ---</h5>
