@@ -14,6 +14,13 @@
   I'm like a detective hunting for the next big adventure in collaboration—always ready for innovative and exciting ideas! Don't hesitate to reach out and connect with me anytime!
 </p>
 
+<!---  If you're interested in my professional experience and skills, you can check out my resume.
+
+[![Resume](https://img.shields.io/badge/Sudarsi%20Yodha-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://docs.google.com/document/d/1X7awEgaGz8USgfQGJv7bqHD50isv1yf3/edit?usp=sharing&ouid=102462065117814236189&rtpof=true&sd=true)
+
+Work on this resume part-->
+
+
 ### Connect with me
 
 <div align="left">
@@ -24,7 +31,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/yodha.yash_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
 </div>
 
@@ -108,12 +115,12 @@
 
 </details>
 
-### Support: 
-<a href="https://buymeacoffee.com/yodhasudark" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30" alt="figma" /> </a>
+### Support : 
+<a href="https://buymeacoffee.com/yodhasudark" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30" alt="figma" /> </a> <p align="justify"> <img src="https://komarev.com/ghpvc/?username=Yodha-Sudarsi&label=Profile%20views&color=5865f2&style=for-the-badge" alt="profile views" height="30"/></p>
 
-<br />
-<hr />
-<br />
+
+
+<hr>
 
 <div align="center">
   
