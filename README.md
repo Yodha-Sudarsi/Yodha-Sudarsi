@@ -38,7 +38,8 @@ Work on this resume part-->
 <hr>
 
 <details>
-  <summary><h2>🛠️ Skills</h2></summary><br>
+  <summary><h3>&nbsp;Skills</h3></summary>
+  
   <h4>Programming Languages:</h4>
 
   <div align="left">
@@ -52,7 +53,6 @@ Work on this resume part-->
   <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="go"/> </a>
   </div>
   
-  <br/>
   
   <h4>Front End:</h4>
   <div align="left">
@@ -63,8 +63,7 @@ Work on this resume part-->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=148dff" height="30" alt="react" /> </a>
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30" alt="go"/> </a>
   </div>
-  
-  <br/>
+
   
   <h4>Back End:</h4>
   <div align="left">
@@ -74,15 +73,13 @@ Work on this resume part-->
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the                 badge&logo=flask&logoColor=black&color=fcf403" height="30" alt="flask" /> </a>
   </div>
   
-  <br/>
   
   <h4>Design:</h4>
   <div align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" alt="figma" /> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="30" alt="express"/> </a>
   </div>
-  
-  <br/>
+
   
   <h4>Database:</h4>
   <div align="left">
@@ -90,8 +87,7 @@ Work on this resume part-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=orange&color=257bc2" height="30" alt="mysql" /> </a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="30" alt="firebase"/> </a>
   </div>
-  
-  <br/>
+
   
   <h4>Data Science :</h4>
   <div align="left">
@@ -102,8 +98,7 @@ Work on this resume part-->
     <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&color=afd6fa" height="30" alt="matplotlib"/></a>
     <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" height="30" alt="tensorflow"/> </a>
   </div>
-  
-  <br/>
+
   
   <h4>Other Technologies</h4>
   <div align="left">
@@ -115,7 +110,7 @@ Work on this resume part-->
 
 </details>
 
-### Support : 
+### Support 
 <a href="https://buymeacoffee.com/yodhasudark" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30" alt="figma" /> </a> <p align="justify"> <img src="https://komarev.com/ghpvc/?username=Yodha-Sudarsi&label=Profile%20views&color=5865f2&style=for-the-badge" alt="profile views" height="30"/></p>
 
 
