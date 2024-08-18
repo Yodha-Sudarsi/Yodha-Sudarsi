@@ -6,7 +6,8 @@
 <img src="https://github.com/Yodha-Sudarsi/Yodha-Sudarsi/blob/main/assets/designer-image.png" min-width="150px" max-width="200px" width="400px" align="right">
 
 <p align="justify">
-  I am Yodha Yashaswit. I am Full Stack Web Developer, UI/UX Designer and ML Engineer. Currently, I am learning about Open Source, Cloud Technology and DevOps. 
+  I am Yodha Yashaswit. As a Microsoft Learn Student Ambassador, innovation and community building are central to my current role. Working with a global network of campus leaders, we strive to enhance technical skills and foster vibrant tech communities.
+  
   I've been actively involved in various hackathons, workshops, and technical clubs where I've not only acquired valuable insights but also mentored junior members of the community, aiding them in problem-solving and raising awareness. I'm truly passionate about teaching newcomers.
 </p>
 
